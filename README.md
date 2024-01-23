@@ -1,2 +1,0 @@
-# punya-pribadi
-pencarian
